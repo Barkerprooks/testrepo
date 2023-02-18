@@ -1,1 +1,2 @@
-print("hello world")
+def front_back(string):
+    pass
